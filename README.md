@@ -1,2 +1,2 @@
 ## 🔗 Parent Project
-https://github.com/hohyung1/FOODDING
+https://github.com/matthias0509/KH-FinalProject
